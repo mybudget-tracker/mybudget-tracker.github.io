@@ -2,7 +2,18 @@
 
 This privacy policy governs your use of the software application MyBudget (“Application”) for mobile devices that was created by Yuliya Stasheuskaya. The Application is a personal budget tracker that helps to have control on income and spending and to see where you spend money each month.
 
-### What information does the Application obtain and how is it used?
+## What information does the Application obtain and how is it used?
+
+### User Provided Information 
+
+The Application obtains the information you provide after you download and install the Application. The personal information refers to information that can identify you, such as location or financial info. This information is collected when you use the Application and will only be used:
+
+- to provide you an access to your data as accountant periods and transaction history;
+- to make you better experience by suggesting entry names based on the previous transaction locations;
+- to improve the Application by aggregating the personal information in a non-personally identifiable way;
+- to communicate with you regarding the Application.
+
+Your personal information is never sold or rented to anyone.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
