@@ -31,22 +31,22 @@ If you do not want us to use your location for the purposes set forth above, you
 
 No. We will not share your information with third parties in anyways.
 
-### Children
+## Children
 
 We do not use the Application to knowingly solicit data from or market to children under the age of 13. If a parent or guardian becomes aware that his or her child has provided us with information without their consent, he or she should remove the Application.
 
-### Security
+## Security
 
 All the information entered in the Application is persisted in the device memory. The Application makes no guarantees regarding the security of persistent store from untrusted sources and cannot detect whether files have been maliciously modified. Note also that it is possible for data archived in the metadata to be tampered with independently of the store data.
 
-### Changes
+## Changes
 
 This Privacy Policy may be updated from time to time for any reason. We will notify you of any changes to our Privacy Policy by posting the new Privacy Policy here. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
 
-### Your Consent
+## Your Consent
 
 By using the Application, you are consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us. "Processing,” means using or touching information in any way, including, but not limited to, collecting, storing, deleting, using, combining and disclosing information, all of which activities will take place in the United States. If you reside outside the United States your information will be transferred, processed and stored there under United States privacy standards.
 
-### Contact us
+## Contact us
 
 If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us via email at y.stashevskaya@gmail.com.
