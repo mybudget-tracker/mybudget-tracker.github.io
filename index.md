@@ -4,12 +4,12 @@ This privacy policy governs your use of the software application MyBudget (“Ap
 
 ## What information does the Application obtain and how is it used?
 
-### User Provided Information 
+### User-Provided Information 
 
-The Application obtains the information you provide after you download and install the Application. The personal information refers to information that can identify you, such as location or financial info. This information is collected when you use the Application and will only be used:
+The Application obtains the information you provide after you download and install the Application. Personal information refers to information that can identify you, such as location or financial info. This information is collected when you use the Application and will only be used:
 
-- to provide you an access to your data as accountant periods and transaction history;
-- to make you better experience by suggesting entry names based on the previous transaction locations;
+- to provide you access to your data as accountant periods and transaction history;
+- to make you a better experience by suggesting entry names based on the previous transaction locations;
 - to improve the Application by aggregating the personal information in a non-personally identifiable way;
 - to communicate with you regarding the Application.
 
@@ -17,11 +17,11 @@ Your personal information is never sold or rented to anyone.
 
 ### Automatically Collected Information 
 
-The Application does not collect information from and/or for social networking platforms (e.g., pulling contact information, friends lists, login information, photos or check-ins).
+The Application does not collect information from and/or for social networking platforms (e.g., pulling contact information, friends lists, login information, photos, or check-ins).
 
-### Does the Application collect precise real time location information of the device?
+### Does the Application collect precise real-time location information of the device?
 
-When you use the Application, we may use GPS technology (or other similar technology) to determine your current location in order to use it as one of transaction attribute and to make your experience better by suggesting new entry comments based on the previous transaction locations.
+When you use the Application, we may use GPS technology (or other similar technology) to determine your current location in order to use it as one of the transaction attributes and to make your experience better by suggesting new entry comments based on the previous transaction locations.
 
 We will not share your current location with other users or partners.
 
@@ -29,7 +29,7 @@ If you do not want us to use your location for the purposes set forth above, you
 
 ### Do third parties see and/or have access to information obtained by the Application?
 
-No. We will not share your information with third parties in any ways.
+No. We will not share your information with third parties in anyways.
 
 ### Children
 
@@ -37,7 +37,7 @@ We do not use the Application to knowingly solicit data from or market to childr
 
 ### Security
 
-All the information entered in the Application is perstisted in the device memory. The Application makes no guarantees regarding the security of persistent store from untrusted sources and cannot detect whether files have been maliciously modified. Note also that it is possible for data archived in the metadata to be tampered with independently of the store data.
+All the information entered in the Application is persisted in the device memory. The Application makes no guarantees regarding the security of persistent store from untrusted sources and cannot detect whether files have been maliciously modified. Note also that it is possible for data archived in the metadata to be tampered with independently of the store data.
 
 ### Changes
 
