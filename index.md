@@ -1,10 +1,8 @@
-## MyBudget
+## MyBudget Privacy Policy
 
-You can use the [editor on GitHub](https://github.com/mybudget-tracker/mybudget-tracker.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+This privacy policy governs your use of the software application MyBudget (“Application”) for mobile devices that was created by Yuliya Stasheuskaya. The Application is a personal budget tracker that helps to have control on income and spending and to see where you spend money each month.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### What information does the Application obtain and how is it used?
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
